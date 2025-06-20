@@ -995,4 +995,3 @@ if not st.session_state.screenshot_mode:
             st.session_state.current_page = get_next_page()
             st.rerun()
 
-[2] preferences.ai_interaction
